@@ -28,22 +28,20 @@ This is a web based application developed for health related telugu based websit
 
 ### About Us -
 
-![Screenshot (6)](https://user-images.githubusercontent.com/113684351/202096459-865ef95e-da69-44c4-b840-c3ed12364f1f.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/113684351/202097193-073adc19-35d0-4c0e-a1f1-1473546f04e5.png)
 
 
 
 ### Services-
 
-
-
-![Screenshot (7)](https://user-images.githubusercontent.com/113684351/202096505-7a34dab9-1f4b-4bcc-8939-f20f53c7e4e5.png)
-
+![Screenshot (6)](https://user-images.githubusercontent.com/113684351/202097250-7dd92896-c2fa-497d-80ad-5dbf75d0ec8a.png)
 
 
 ### Gallery-
 
+![Screenshot (7)](https://user-images.githubusercontent.com/113684351/202097280-037a03b8-34b5-410a-b8d1-ddc655191b78.png)
 
-![Screenshot (8)](https://user-images.githubusercontent.com/113684351/202096558-8c4593c6-555b-4d3a-9ffa-92b0609f5aa2.png)
 
 
 ### Cases-
