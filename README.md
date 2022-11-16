@@ -17,6 +17,9 @@ This is a web based application developed for health related telugu based websit
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
+## Azure technologies used for Project
+- Static Web Apps
+- Health bot
 
 ## Screenshots
 
